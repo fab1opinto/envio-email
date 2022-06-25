@@ -1,7 +1,7 @@
 
 
 ## Exercício de composer, envio de email simulado. <br />
-# Projeto em Andamento.
+### Projeto em Andamento.
 <hr>
 <br />
 Front-end: nginx:1.13 <br />
