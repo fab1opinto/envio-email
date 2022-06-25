@@ -3,10 +3,10 @@
 ## Exercício de composer, envio de email simulado.
 <hr>
 <br />
-frontend: nginx:1.13 <br />
-database: postgres:9.6 <br />
-app: python:3.6 <br />
-workers: python:3.6 <br /> <br />
+Front-end: nginx:1.13 <br />
+Database: postgres:9.6 <br />
+App: python:3.6 <br />
+Workers: python:3.6 <br /> <br />
 <hr>
 
 * Iniciando a composição com o banco de dados 
