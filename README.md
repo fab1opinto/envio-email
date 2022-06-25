@@ -21,5 +21,4 @@ Workers: python:3.6 <br /> <br />
 * 12 Factors
 * Sobreescrevendo localmente
 
-<br />
-<img src="https://github.com/fab1opinto/envio-email/issues/1#issue-1284718728" />
+
