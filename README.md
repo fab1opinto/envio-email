@@ -6,9 +6,10 @@
 frontend: nginx:1.13 <br />
 database: postgres:9.6 <br />
 app: python:3.6 <br />
-workers: python:3.6 <br />
+workers: python:3.6 <br /> <br />
+<hr>
 
-* Iniciando a composição com o banco de dados <br />
+* Iniciando a composição com o banco de dados 
 * Usando volumes e scripts de banco de dados 
 * Começando nossa camada de front-end
 * Aplicativo para enfileirar as mensagens
